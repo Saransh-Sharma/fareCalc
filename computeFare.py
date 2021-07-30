@@ -18,3 +18,5 @@ class ComputeFare:
     def dayCost(self):
         pass
     
+    def getTrips(self): #get out of this class
+        pass #open 
