@@ -1,0 +1,56 @@
+{
+    "trips": [
+
+        {
+            "trip-id": 1,
+            "day": "Mon",
+            "time": 10.30,
+            "origin": 1,
+            "to": 2,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },
+        {
+            "trip-id": 2,
+            "day": "Mon",
+            "time": 11.30,
+            "origin": 2,
+            "to": 1,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },
+        {
+            "trip-id": 3,
+            "day": "Mon",
+            "time": 12.30,
+            "origin": 1,
+            "to": 1,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },
+        {
+            "trip-id": 4,
+            "day": "Mon",
+            "time": 13.30,
+            "origin": 1,
+            "to": 1,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },
+        {
+            "trip-id": 5,
+            "day": "Mon",
+            "time": 14.30,
+            "origin": 2,
+            "to": 1,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        }
+    ]
+
+}

@@ -1,0 +1,253 @@
+{
+    "trips": [
+        {
+            "trip-id": 1,
+            "day": "Mon",
+            "time": 10.30,
+            "origin": 1,
+            "to": 2,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },
+        {
+            "trip-id": 2,
+            "day": "Mon",
+            "time": 11.30,
+            "origin": 2,
+            "to": 1,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },
+        {
+            "trip-id": 3,
+            "day": "Mon",
+            "time": 12.30,
+            "origin": 1,
+            "to": 1,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },
+        {
+            "trip-id": 4,
+            "day": "Mon",
+            "time": 13.30,
+            "origin": 1,
+            "to": 1,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },
+        {
+            "trip-id": 5,
+            "day": "Mon",
+            "time": 14.30,
+            "origin": 2,
+            "to": 1,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },
+        {
+            "trip-id": 6,
+            "day": "Tue",
+            "time": 6.30,
+            "origin": 1,
+            "to": 2,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },
+        {
+            "trip-id": 7,
+            "day": "Tue",
+            "time": 10.20,
+            "origin": 2,
+            "to": 1,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },
+        {
+            "trip-id": 8,
+            "day": "Tue",
+            "time": 12.30,
+            "origin": 1,
+            "to": 1,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },
+        {
+            "trip-id": 9,
+            "day": "Tue",
+            "time": 13.45,
+            "origin": 1,
+            "to": 1,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },
+        {
+            "trip-id": 10,
+            "day": "Tue",
+            "time": 15.30,
+            "origin": 2,
+            "to": 2,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },
+		{
+            "trip-id": 11,
+            "day": "Wed",
+            "time": 6.30,
+            "origin": 2,
+            "to": 2,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },
+        {
+            "trip-id": 12,
+            "day": "Wed",
+            "time": 10.20,
+            "origin": 2,
+            "to": 2,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },
+        {
+            "trip-id": 13,
+            "day": "Wed",
+            "time": 12.00,
+            "origin": 2,
+            "to": 2,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },
+        {
+            "trip-id": 14,
+            "day": "Wed",
+            "time": 15.45,
+            "origin": 2,
+            "to": 2,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },
+        {
+            "trip-id": 15,
+            "day": "Wed",
+            "time": 17.30,
+            "origin": 2,
+            "to": 2,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },{
+            "trip-id": 16,
+            "day": "Thus",
+            "time": 5.30,
+            "origin": 1,
+            "to": 1,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },
+        {
+            "trip-id": 17,
+            "day": "Thus",
+            "time": 10.15,
+            "origin": 1,
+            "to": 1,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },
+        {
+            "trip-id": 18,
+            "day": "Thus",
+            "time": 12.20,
+            "origin": 1,
+            "to": 1,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },
+        {
+            "trip-id": 19,
+            "day": "Thu",
+            "time": 136.45,
+            "origin": 1,
+            "to": 1,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },
+        {
+            "trip-id": 20,
+            "day": "Thus",
+            "time": 19.30,
+            "origin": 1,
+            "to": 1,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },
+		{
+            "trip-id": 21,
+            "day": "Fri",
+            "time": 6.30,
+            "origin": 1,
+            "to": 2,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },
+        {
+            "trip-id": 22,
+            "day": "Fri",
+            "time": 10.20,
+            "origin": 2,
+            "to": 1,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },
+        {
+            "trip-id": 23,
+            "day": "Fri",
+            "time": 12.30,
+            "origin": 1,
+            "to": 1,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },
+        {
+            "trip-id": 24,
+            "day": "Fri",
+            "time": 13.45,
+            "origin": 1,
+            "to": 1,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        },
+        {
+            "trip-id": 25,
+            "day": "Fri",
+            "time": 15.30,
+            "origin": 2,
+            "to": 2,
+            "tripzone": "",
+            "fare": 0,
+            "remarks":""
+        }
+    ]
+}
